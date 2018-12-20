@@ -9,7 +9,7 @@ path_soal = ['player/arsalan/bof',
              'player/hayra/ldap',
              'player/hayra/rop']
 
-interval = 20
+interval = 10
 print("[!] memulai")
 s = sched.scheduler(time.time , time.sleep)
 
